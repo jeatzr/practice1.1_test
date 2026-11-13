@@ -1,5 +1,5 @@
 // src/components/templates/TwoColumnTemplate.jsx
-import "./TwoColumnTemplate.jsx";
+import "./TwoColumnTemplate.css";
 
 export default function TwoColumnTemplate({ title, left, right }) {
   return (
